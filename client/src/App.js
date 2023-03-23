@@ -8,7 +8,7 @@ import ListView from "./components/ListView/ListView";
 import GridView from "./components/GridView/GridView";
 import Login from "./components/Login/Login";
 import Signup from "./components/Signup/Signup";
-import { useAuth } from "./hooks/useAuth";
+// import { useAuth } from "./hooks/useAuth";
 import { SubmitForm } from "./components/Submit/SubmitForm";
 import { ThemeProvider } from "@mui/material/styles";
 import { theme } from "./components/Submit/SubmitStyles";
@@ -34,11 +34,11 @@ const App = () => {
     }
   };
 
-  const onLogout = () => {
+/*  const onLogout = () => {
     handleLogout()
       .then(() => setView("LOGIN"))
       .catch((error) => console.log(error));
-  };
+  }; */
 
   return (
     <Box
