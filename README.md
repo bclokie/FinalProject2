@@ -12,3 +12,14 @@ Corey Silver      -   https://github.com/corey237
 If you want to see the work we did the first time around feel free to check out:
 
 https://github.com/bclokie/FinalProject
+
+## What is this project?
+
+This project is a simple web application that allows users to create and manage their own todo lists. The application is built using the MERN stack (MongoDB, Express, React, Node.js) and is hosted on Heroku. The application is currently live at: https://final-project-2.herokuapp.com/ (JUST KIDDING NOT YET)
+
+## How to run the application locally
+
+1. Clone the repository
+2. Run `npm install` in the root directory
+3. Run `npm run dev` in the root directory
+4. Navigate to `localhost:3000` in your browser

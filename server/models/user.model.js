@@ -2,10 +2,10 @@ const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
 const userSchema = new Schema({
-  firstName: String,
-  lastName: String,
+  userName: String,
+  password: String,
   email: String,
-  favourites: Array
+  favourites: Array,
 });
 
 const User = mongoose.model('User', userSchema);
