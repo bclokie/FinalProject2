@@ -8,4 +8,6 @@ Braden Clokie     -   https://github.com/bclokie
 
 Corey Silver      -   https://github.com/corey237  
 
-If you want to see the work we did the first time around feel free to check out https://github.com/bclokie/FinalProject
+If you want to see the work we did the first time around feel free to check out:
+
+https://github.com/bclokie/FinalProject
