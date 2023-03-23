@@ -15,7 +15,7 @@ https://github.com/bclokie/FinalProject
 
 ## What is this project?
 
-This project is a simple web application that allows users to create and manage their own todo lists. The application is built using the MERN stack (MongoDB, Express, React, Node.js) and is hosted on Heroku. The application is currently live at: https://final-project-2.herokuapp.com/ (JUST KIDDING NOT YET)
+This project is a simple web application that allows users to... The application is built using the MERN stack (MongoDB, Express, React, Node.js) with image hosting done on Firebase. The application is currently live at: https://final-project-2.herokuapp.com/ (JUST KIDDING NOT YET)
 
 ## How to run the application locally
 
