@@ -1,13 +1,14 @@
-# Welcome to our second attempt at our Final Project, otherwise known as... 
-### Final Project 2 - The Sequel
+### Welcome to our second attempt at our Final Project, otherwise known as... 
+
+# Final Project 2 - The Sequel
 
 ## A collaborative project between:
 
-### [Alejandro Ferru](https://github.com/JimHwkins/)
+# [Alejandro Ferru](https://github.com/JimHwkins/)
 
-### [Braden Clokie](https://github.com/bclokie/)
+# [Braden Clokie](https://github.com/bclokie/)
 
-### [Corey Silver](https://github.com/corey237/)  
+# [Corey Silver](https://github.com/corey237/)  
 
 
 ## Our first attempt at the project can be found [here](https://github.com/bclokie/FinalProject)
