@@ -10,9 +10,7 @@
 ### [Corey Silver](https://github.com/corey237/)  
 
 
-## Our first attempt at the project can be found here:
-
-https://github.com/bclokie/FinalProject
+## Our first attempt at the project can be found [here](https://github.com/bclokie/FinalProject)
 
 ## What is this project?
 
