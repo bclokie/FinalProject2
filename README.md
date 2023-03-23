@@ -23,3 +23,15 @@ This project is a simple web application that allows users to... The application
 2. Run `npm install` in the root directory
 3. Run `npm run dev` in the root directory
 4. Navigate to `localhost:3000` in your browser
+
+## How to run the tests
+
+1. Run `npm run test` in the root directory
+
+## How to run the linter
+
+1. Run `npm run lint` in the root directory
+
+## How to run the linter and fix errors
+
+1. Run `npm run lint:fix` in the root directory
